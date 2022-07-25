@@ -1,0 +1,10 @@
+.courses{
+    margin-top: 2rem;
+}
+
+/***********************Media Queries (Phones)*********************/
+@media screen and (max-width: 600px){
+    .courses{
+        margin-top: -0.5rem;
+    }
+}
